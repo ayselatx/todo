@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h1 class="title">
-      Login
+      Login Hello
     </h1>
     <form @submit.prevent="performLogin" action="post">
       <p>
